@@ -19,6 +19,9 @@
 - C# 开发
     - C#
     - C# Extensions
+- C++ 开发
+    - C/C++
+    - Easy C++ projcts
 - KeyMap
     - Notepad++ keymap
 - Project Manager

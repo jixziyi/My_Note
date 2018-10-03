@@ -1,3 +1,17 @@
 工作
 _posts
 Markdown
+bin
+lib
+
+*.d
+*.obj
+*.o
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*~
+*.swp
+*.exe
+
