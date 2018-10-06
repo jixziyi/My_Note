@@ -20,3 +20,6 @@
 
 [TypeScript使用手册](#https://github.com/zhongsp/TypeScript) - TypeScript使用手册
 
+[QML Book In Chinese](#https://github.com/cwc1987/QmlBook-In-Chinese) - 中文版《QmlBook》
+
+
