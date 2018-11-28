@@ -10,6 +10,16 @@
 - Xftp
 - [WinSCP](https://winscp.net/eng/index.php) - Windows 环境下使用的 SSH 的开源图形化 SFTP 客户端。
 - [FileZilla](https://filezilla-project.org/) - 免费开源的FTP软件,分为客户端版本和服务器版本,具备所有的FTP软件功能。
+    - 使用说明：
+        1. 安装Server程序
+        2. 登陆Serer程序，默认Host/Port
+        3. 选择 Edit->Setting->FTP over TLS settings->Generate new certificate
+        4. Country:CN/Province:GuangDong/City:ShenZhen/Organization:DingFlow/Unit:DingFlow/Email:/Address:172.19.93.241->Save
+        5. 安装证书
+        6. 添加用户，设置用户目录和权限
+        7. 系统防火墙添加 Filazilla server interface.exe 和 Filezilla server.exe 两个文件
+        8. Passive mode settings 配置IP
+        9. Disallow plain unencrypted FTP 不勾选
 
 **shell**
 - cmder
