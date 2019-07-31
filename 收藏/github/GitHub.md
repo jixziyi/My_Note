@@ -26,4 +26,7 @@
 
 [ClearScript](#https://github.com/Microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports JavaScript (via V8 and JScript) and VBScript.
 
+## CNC运动控制
+[grbl](#https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
+
 

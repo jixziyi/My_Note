@@ -12,7 +12,7 @@
 
 ## 配置
 - 修改class模板
-修改路径：`C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ItemTemplates\CSharp\Code\2052\Class\Class.cs`
+修改路径：`C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\ItemTemplates\CSharp\Code\2052\Class`
 ``` C#
 /****************************************************************************
 *Copyright (c) $year$ $registeredorganization$ All Rights Reserved.
