@@ -5,6 +5,9 @@
 - CogDisplay
 
 
-
+## 图像状态控件 CogDisplayStatusBarV2
+``` C#
+this.cogDisplayStatusBar1.Display = this.cogRecordDisplay1;
+```
 
 
